@@ -97,7 +97,7 @@
         <janino.version>3.0.16</janino.version>
         <snakeyaml.version>1.33</snakeyaml.version>
         <htrace.version>4.1.1</htrace.version>
-        <datasync.version>2.17.282</datasync.version>
+        <datasync.version>2.20.162</datasync.version>
         <springdoc-openapi-ui.version>1.6.9</springdoc-openapi-ui.version>
         <aspectj.version>1.9.7</aspectj.version>
         <zt-zip.version>1.15</zt-zip.version>
