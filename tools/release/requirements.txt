@@ -15,5 +15,5 @@
 # specific language governing permissions and limitations
 # under the License.
 
-requests~=2.28
+requests~=2.32.0
 GitPython~=3.1
