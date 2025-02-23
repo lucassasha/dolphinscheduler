@@ -28,7 +28,7 @@
     <name>${project.artifactId}</name>
 
     <properties>
-        <netty.version>4.1.53.Final</netty.version>
+        <netty.version>4.1.94.Final</netty.version>
         <spring-boot.version>2.7.3</spring-boot.version>
         <spring-ldap.version>2.4.1</spring-ldap.version>
         <java-websocket.version>1.5.1</java-websocket.version>
